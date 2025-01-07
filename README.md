@@ -19,7 +19,7 @@ using (var webClient = new WebClient())
 4. Drag WindowsGSM.Exe into previoulsy created folder and execute it.
 
 ## Plugin Installation:
-1. Download [latest](https://github.com/ohmcodes/WindowsGSM.Satisfactory/releases/latest) release
+1. Download [latest](https://github.com/CreepNo1C/WindowsGSM.RimworldTogether/releases/latest) release
 2. Extract then Move **Rimworld.cs** folder to **plugins** folder
   a. OR Press on the Puzzle Icon in the left bottom side and install this plugin by navigating to it and select the Zip File.
 4. Click **[RELOAD PLUGINS]** button or restart WindowsGSM
