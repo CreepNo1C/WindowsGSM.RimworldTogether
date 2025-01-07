@@ -27,9 +27,9 @@ using (var webClient = new WebClient())
 
 
 ### Official Documentation
-🗃️ Rimworld Together mod [https://steamcommunity.com/sharedfiles/filedetails/?id=3005289691](https://steamcommunity.com/sharedfiles/filedetails/?id=3005289691)\b
+🗃️ Rimworld Together mod [https://steamcommunity.com/sharedfiles/filedetails/?id=3005289691](https://steamcommunity.com/sharedfiles/filedetails/?id=3005289691)<br/>
 🗃️ Rimworld Together Server [https://github.com/Byte-Nova/Rimworld-Together/wiki](https://github.com/Byte-Nova/Rimworld-Together/wiki)
 
 ### The Game
-🕹️ Official Site [https://rimworldgame.com/](https://rimworldgame.com/)\b
+🕹️ Official Site [https://rimworldgame.com/](https://rimworldgame.com/)<br/>
 🕹️ Steam Site [https://rimworldgame.com/](https://store.steampowered.com/app/294100/RimWorld/)
