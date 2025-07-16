@@ -2,16 +2,7 @@
 WindowsGSM Plugin that provides a Rimworld Together Dedicated Server
 
 # Dedicated server info
-At the moment the Server version is hardcoded to version 25.1.2.1. If you want to install a newer version you need to edit the downloadlink
-in the Rimworld.cs at line 152 or update manually after installation.
-
-```ruby
-using (var webClient = new WebClient())
-            {
-                await webClient.DownloadFileTaskAsync($"https://github.com/Byte-Nova/Rimworld-Together/releases/download/25.1.2.1/win-x64.zip", Functions.ServerPath.GetServersServerFiles(_serverData.ServerID, "win-x64.zip"));
-            }
-```
-
+With the latest update there is no to change code anymore, see releases
 
 ## WindowsGSM Installation: 
 1. Download  WindowsGSM https://windowsgsm.com/ 
