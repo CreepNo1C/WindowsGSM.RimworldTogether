@@ -2,7 +2,7 @@
 WindowsGSM Plugin that provides a Rimworld Together Dedicated Server
 
 # Dedicated server info
-With the latest update there is no to change code anymore, see releases
+With the latest update there is no need to change code anymore, see releases
 
 ## WindowsGSM Installation: 
 1. Download  WindowsGSM https://windowsgsm.com/ 
