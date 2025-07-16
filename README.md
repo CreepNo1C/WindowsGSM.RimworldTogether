@@ -6,15 +6,15 @@ With the latest update there is no need to change code anymore, see releases
 
 ## WindowsGSM Installation: 
 1. Download  WindowsGSM https://windowsgsm.com/ 
-2. Create a Folder at a Location you wan't all Server to be Installed and Run.
+2. Create a Folder at a Location you want all Server to be Installed and Run.
 4. Drag WindowsGSM.Exe into previoulsy created folder and execute it.
 
 ## Plugin Installation:
 1. Download [latest](https://github.com/CreepNo1C/WindowsGSM.RimworldTogether/releases/latest) release
-2. Extract then Move **Rimworld.cs** folder to **plugins** folder
-  a. OR Press on the Puzzle Icon in the left bottom side and install this plugin by navigating to it and select the Zip File.
+2. Extract, then Move **Rimworld.cs** folder to **plugins** folder within your Windows GSM folder
+  a. OR Press on the Puzzle Icon at the bottem left and install this plugin by selecting the Zip File.
 4. Click **[RELOAD PLUGINS]** button or restart WindowsGSM
-5. Navigate "Servers" and Click "Install Game Server" and find "Rimworld Together Dedicated Server [Rimworld.cs]
+5. Navigate to "Servers" and Click "Install Game Server", there you will now find "Rimworld Together Dedicated Server [Rimworld.cs]
 
 
 ### Official Documentation
